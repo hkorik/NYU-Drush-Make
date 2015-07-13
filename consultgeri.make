@@ -60,6 +60,7 @@ projects[drupal][version] = 7.38
 	projects[field_group][version] = 1.4
 	projects[inline_entity_form][version] = 1.6
 	projects[biblio][version] = 1.0-rc7
+	projects[module_filter][version] = 2.0
 	
 	; Development Modules
 	; --------
